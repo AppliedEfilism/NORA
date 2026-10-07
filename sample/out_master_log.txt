@@ -1,0 +1,24 @@
+=== Code info ===
+  Code Name     : NORA
+  Version       : 1.0
+  Copyright     : (c) 2026 Applied Efilism Society
+
+=== Basic parameters ===
+Annual capture probability: 0.574
+
+
+=== Summary of executed time ===
+Function Name             | Count    | Total Time(s)   | Avg Time(s)    
+----------------------------------------------------------------------
+Colony.advance            | 480000   | 167.5731        | 0.000349       
+Cat.update_age            | 18915943 | 65.6925         | 0.000003       
+Cat.advance_counters      | 18805460 | 34.4259         | 0.000002       
+DataCollector.collect     | 480000   | 28.8453         | 0.000060       
+DataCollector.export_csv  | 80       | 17.9930         | 0.224913       
+Cat.update_maturity       | 18918143 | 15.9418         | 0.000001       
+Cat.update_activity       | 27280539 | 9.2617          | 0.000000       
+Cat.prob_survival         | 18909608 | 8.9620          | 0.000000       
+Colony.process_mating     | 357360   | 3.7768          | 0.000011       
+Cat.calc_dominance        | 7927361  | 3.5603          | 0.000000       
+Cat.reproduce             | 30192    | 0.6561          | 0.000022       
+Colony.debug_properties   | 480080   | 0.5039          | 0.000001       

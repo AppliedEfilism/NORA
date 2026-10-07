@@ -1,0 +1,51 @@
+# config.py
+
+#...Simulation setups
+METHOD = [ "NONE", "TNR", "TVHR", "LC" ]
+DIR_OUT = "./sample"
+FDATA = "out_results"
+NRUN  = 20
+NSTEP = 6000
+SHOW_PLOT = True 
+OUTPUT_DIAG = True
+DEBUG = True
+
+#...Colony size parameters
+N0 = 50
+KCAP  = 50
+KEXP  = 6
+
+#...Trapping parameters
+INIT_TRAP = 2001
+P_CAPTURE = 0.03
+TRAP_EPISODES = 4
+TRAP_DAYS     = 7
+TNR_EFFECT    = 1.16
+
+#...Survival probabilities
+P_0 = 0.9991
+P_BABY   = 0.991244
+P_MALE   = 0.997406 
+P_FEMALE = 0.998832 
+P_TNR    = 0.99905
+
+# age
+MATURE_MIN_F = 212
+MATURE_MAX_F = 426
+MATURE_MIN_M = 319
+MATURE_MAX_M = 319
+AGE_YOUNG_JUV = 43
+AGE_OLD_JUV   = 184
+AGE_MAX = 3000
+
+#...Mating and pregnancy parameters
+BREEDING_SEASON_START = 30
+BREEDING_SEASON_END = 300
+ESTRUS_DURATION = 5 
+INTERESTRUS_DURATION = 8
+COP_MAX = 8
+P_PREGNANCY = 0.5
+PREGNANCY_DURATION = 65
+PSEUDO_PREGNANCY_DURATION = 45
+WEANING_AGE = 45
+

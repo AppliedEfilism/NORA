@@ -1,0 +1,320 @@
+
+*** Run 1 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 34.58                     | 50.00                    
+Litters/year/adult female           | 1.158459                  | ~1.5                     
+Pregnancy/year/adult female         | 1.825845                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.195923                  | ---                      
+Pregnancy per mating                | 0.138915                  | ---                      
+180-day survival probability        | 0.278719                  | ~0.1--0.25               
+Preventable deaths                  | 908                       | ---                      
+Daily P_sv (kitten and young juv.)  | 0.993954                  | 0.991244                 
+Daily P_sv (adult male)             | 0.997067                  | 0.997406                 
+Daily P_sv (adult female)           | 0.996975                  | 0.998832                 
+
+
+*** Run 2 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 39.08                     | 50.00                    
+Litters/year/adult female           | 1.230032                  | ~1.5                     
+Pregnancy/year/adult female         | 1.891518                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.216075                  | ---                      
+Pregnancy per mating                | 0.114606                  | ---                      
+180-day survival probability        | 0.225219                  | ~0.1--0.25               
+Preventable deaths                  | 1225                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.993033                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996328                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997586                  | 0.998832                 
+
+
+*** Run 3 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 37.64                     | 50.00                    
+Litters/year/adult female           | 1.158114                  | ~1.5                     
+Pregnancy/year/adult female         | 1.817981                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.261555                  | ---                      
+Pregnancy per mating                | 0.163839                  | ---                      
+180-day survival probability        | 0.220339                  | ~0.1--0.25               
+Preventable deaths                  | 1168                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992726                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996298                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997306                  | 0.998832                 
+
+
+*** Run 4 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 43.86                     | 50.00                    
+Litters/year/adult female           | 1.251643                  | ~1.5                     
+Pregnancy/year/adult female         | 1.907203                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.273284                  | ---                      
+Pregnancy per mating                | 0.162981                  | ---                      
+180-day survival probability        | 0.239380                  | ~0.1--0.25               
+Preventable deaths                  | 1298                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992662                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996727                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997707                  | 0.998832                 
+
+
+*** Run 5 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 40.35                     | 50.00                    
+Litters/year/adult female           | 1.227175                  | ~1.5                     
+Pregnancy/year/adult female         | 2.233837                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.213573                  | ---                      
+Pregnancy per mating                | 0.170998                  | ---                      
+180-day survival probability        | 0.231435                  | ~0.1--0.25               
+Preventable deaths                  | 1242                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.993018                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996978                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997642                  | 0.998832                 
+
+
+*** Run 6 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 42.71                     | 50.00                    
+Litters/year/adult female           | 1.328901                  | ~1.5                     
+Pregnancy/year/adult female         | 1.991861                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.229118                  | ---                      
+Pregnancy per mating                | 0.163245                  | ---                      
+180-day survival probability        | 0.224138                  | ~0.1--0.25               
+Preventable deaths                  | 1274                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992645                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996488                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997625                  | 0.998832                 
+
+
+*** Run 7 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 42.00                     | 50.00                    
+Litters/year/adult female           | 1.108756                  | ~1.5                     
+Pregnancy/year/adult female         | 1.828706                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.278253                  | ---                      
+Pregnancy per mating                | 0.157487                  | ---                      
+180-day survival probability        | 0.215584                  | ~0.1--0.25               
+Preventable deaths                  | 1366                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992167                  | 0.991244                 
+Daily P_sv (adult male)             | 0.997072                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997407                  | 0.998832                 
+
+
+*** Run 8 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 26.16                     | 50.00                    
+Litters/year/adult female           | 0.783854                  | ~1.5                     
+Pregnancy/year/adult female         | 1.343031                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.203547                  | ---                      
+Pregnancy per mating                | 0.174520                  | ---                      
+180-day survival probability        | 0.182446                  | ~0.1--0.25               
+Preventable deaths                  | 920                       | ---                      
+Daily P_sv (kitten and young juv.)  | 0.994535                  | 0.991244                 
+Daily P_sv (adult male)             | 0.997566                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997466                  | 0.998832                 
+
+
+*** Run 9 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 42.61                     | 50.00                    
+Litters/year/adult female           | 1.231714                  | ~1.5                     
+Pregnancy/year/adult female         | 1.903703                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.262138                  | ---                      
+Pregnancy per mating                | 0.140906                  | ---                      
+180-day survival probability        | 0.225166                  | ~0.1--0.25               
+Preventable deaths                  | 1331                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992482                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996677                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997666                  | 0.998832                 
+
+
+*** Run 10 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 43.16                     | 50.00                    
+Litters/year/adult female           | 1.297115                  | ~1.5                     
+Pregnancy/year/adult female         | 1.935510                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.228773                  | ---                      
+Pregnancy per mating                | 0.145879                  | ---                      
+180-day survival probability        | 0.203614                  | ~0.1--0.25               
+Preventable deaths                  | 1491                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.991884                  | 0.991244                 
+Daily P_sv (adult male)             | 0.995832                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997529                  | 0.998832                 
+
+
+*** Run 11 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 37.37                     | 50.00                    
+Litters/year/adult female           | 1.095295                  | ~1.5                     
+Pregnancy/year/adult female         | 1.773437                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.247042                  | ---                      
+Pregnancy per mating                | 0.091693                  | ---                      
+180-day survival probability        | 0.259106                  | ~0.1--0.25               
+Preventable deaths                  | 1047                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.993625                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996630                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997242                  | 0.998832                 
+
+
+*** Run 12 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 42.73                     | 50.00                    
+Litters/year/adult female           | 1.293722                  | ~1.5                     
+Pregnancy/year/adult female         | 1.959723                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.206164                  | ---                      
+Pregnancy per mating                | 0.116946                  | ---                      
+180-day survival probability        | 0.226552                  | ~0.1--0.25               
+Preventable deaths                  | 1317                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992410                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996687                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997614                  | 0.998832                 
+
+
+*** Run 13 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 31.58                     | 50.00                    
+Litters/year/adult female           | 1.309490                  | ~1.5                     
+Pregnancy/year/adult female         | 2.012465                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.243757                  | ---                      
+Pregnancy per mating                | 0.142708                  | ---                      
+180-day survival probability        | 0.231061                  | ~0.1--0.25               
+Preventable deaths                  | 943                       | ---                      
+Daily P_sv (kitten and young juv.)  | 0.993870                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996588                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997410                  | 0.998832                 
+
+
+*** Run 14 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 41.63                     | 50.00                    
+Litters/year/adult female           | 1.276830                  | ~1.5                     
+Pregnancy/year/adult female         | 1.940651                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.335670                  | ---                      
+Pregnancy per mating                | 0.143167                  | ---                      
+180-day survival probability        | 0.238061                  | ~0.1--0.25               
+Preventable deaths                  | 1237                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992783                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996107                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997707                  | 0.998832                 
+
+
+*** Run 15 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 38.83                     | 50.00                    
+Litters/year/adult female           | 1.132959                  | ~1.5                     
+Pregnancy/year/adult female         | 1.803845                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.293906                  | ---                      
+Pregnancy per mating                | 0.136248                  | ---                      
+180-day survival probability        | 0.262295                  | ~0.1--0.25               
+Preventable deaths                  | 1052                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.993526                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996893                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997119                  | 0.998832                 
+
+
+*** Run 16 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 39.86                     | 50.00                    
+Litters/year/adult female           | 1.227189                  | ~1.5                     
+Pregnancy/year/adult female         | 1.883148                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.278881                  | ---                      
+Pregnancy per mating                | 0.174638                  | ---                      
+180-day survival probability        | 0.254977                  | ~0.1--0.25               
+Preventable deaths                  | 1131                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.993249                  | 0.991244                 
+Daily P_sv (adult male)             | 0.997078                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997704                  | 0.998832                 
+
+
+*** Run 17 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 42.19                     | 50.00                    
+Litters/year/adult female           | 1.260930                  | ~1.5                     
+Pregnancy/year/adult female         | 1.927274                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.332688                  | ---                      
+Pregnancy per mating                | 0.158251                  | ---                      
+180-day survival probability        | 0.230769                  | ~0.1--0.25               
+Preventable deaths                  | 1307                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992690                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996073                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997844                  | 0.998832                 
+
+
+*** Run 18 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 41.56                     | 50.00                    
+Litters/year/adult female           | 1.160597                  | ~1.5                     
+Pregnancy/year/adult female         | 1.859300                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.242404                  | ---                      
+Pregnancy per mating                | 0.131234                  | ---                      
+180-day survival probability        | 0.227951                  | ~0.1--0.25               
+Preventable deaths                  | 1314                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992880                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996216                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997475                  | 0.998832                 
+
+
+*** Run 19 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 40.08                     | 50.00                    
+Litters/year/adult female           | 1.191069                  | ~1.5                     
+Pregnancy/year/adult female         | 1.835167                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.291492                  | ---                      
+Pregnancy per mating                | 0.107704                  | ---                      
+180-day survival probability        | 0.232838                  | ~0.1--0.25               
+Preventable deaths                  | 1240                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992975                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996123                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997721                  | 0.998832                 
+
+
+*** Run 20 ***
+=== Summary of key metrics ===
+Metric                              | Simulation result         | Expected w/o intervention
+------------------------------------------------------------------------------------------
+Mean total population               | 41.69                     | 50.00                    
+Litters/year/adult female           | 1.222421                  | ~1.5                     
+Pregnancy/year/adult female         | 1.901161                  | <2.45                    
+Pseudo pregnancy/year/adult female  | 0.439608                  | ---                      
+Pregnancy per mating                | 0.102326                  | ---                      
+180-day survival probability        | 0.231450                  | ~0.1--0.25               
+Preventable deaths                  | 1300                      | ---                      
+Daily P_sv (kitten and young juv.)  | 0.992631                  | 0.991244                 
+Daily P_sv (adult male)             | 0.996464                  | 0.997406                 
+Daily P_sv (adult female)           | 0.997497                  | 0.998832                 
+
